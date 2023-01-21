@@ -1,0 +1,241 @@
+[{
+    "UniqueId": "1",
+    "Title": "Family Fun Day",
+    "Subtitle": "Bring the whole family for a day of fun and games",
+    "Description": "Join us for a day of fun and games for the whole family. Activities include face painting, balloon animals, arts and crafts, and more. Food and drinks will also be available for purchase. Suitable for all ages.",
+    "Date": "January 23, 2022",
+    "Time": "11:00 AM - 3:00 PM",
+    "Categories": "Family, Entertainment",
+    "Tags": "Fun, Games, Family",
+    "Location": "Central Park, New York City"
+}, {
+    "UniqueId": "2",
+    "Title": "Community Potluck",
+    "Subtitle": "Bring a dish to share and join the community for a meal",
+    "Description": "Come and join your community for a potluck meal. Bring a dish to share and enjoy good food and conversation. Suitable for all ages.",
+    "Date": "January 24, 2022",
+    "Time": "12:00 PM - 3:00 PM",
+    "Categories": "Community, Food",
+    "Tags": "Potluck, Meal, Community",
+    "Location": "St. Mary's Church, San Francisco"
+}, {
+    "UniqueId": "3",
+    "Title": "Story Time at the Library",
+    "Subtitle": "Bring the kids for a fun and interactive story time",
+    "Description": "Join us at the library for a fun and interactive story time. Children will have the opportunity to listen to stories, participate in crafts, and more. Suitable for all ages.",
+    "Date": "February 1, 2022",
+    "Time": "10:00 AM - 11:00 AM",
+    "Categories": "Education, Children",
+    "Tags": "Story, Time, Library",
+    "Location": "Los Angeles Public Library, Los Angeles"
+}, {
+    "UniqueId": "4",
+    "Title": "International Food Festival",
+    "Subtitle": "Try food from around the world",
+    "Description": "Come and experience food from around the world at the International Food Festival. Vendors will be selling dishes from different countries and cultures. Suitable for all ages.",
+    "Date": "February 2, 2022",
+    "Time": "11:00 AM - 7:00 PM",
+    "Categories": "Food, Culture",
+    "Tags": "International, Food, Festival",
+    "Location": "Navy Pier, Chicago"
+}, {
+    "UniqueId": "5",
+    "Title": "Arts and Crafts Fair",
+    "Subtitle": "Discover unique and handmade items from local artisans",
+    "Description": "Join us for a fair showcasing unique and handmade items from local artisans. Find the perfect gift for yourself or a loved one. Suitable for all ages.",
+    "Date": "February 9, 2022",
+    "Time": "10:00 AM - 4:00 PM",
+    "Categories": "Arts, Handmade",
+    "Tags": "Crafts, Fair, Artisans",
+    "Location": "Union Square, San Francisco"
+}, {
+    "UniqueId": "6",
+    "Title": "Movie Night Under the Stars",
+    "Subtitle": "Watch a classic movie under the stars",
+    "Description": "Join us for a movie night under the stars. We will be screening a classic movie on a large inflatable screen. Bring a blanket and snacks to enjoy during the movie. Suitable for all ages.",
+    "Date": "February 16, 2022",
+    "Time": "7:00 PM - 10:00",
+    "Categories": "Entertainment, Outdoor",
+    "Tags": "Movie, Night, Outdoor",
+    "Location": "City Park, Houston"
+}, {
+    "UniqueId": 7,
+    "Title": "Yoga in the Park",
+    "Subtitle": "Experience the benefits of yoga in nature",
+    "Description": "Join us for a yoga class in the park. Enjoy the natural surroundings and experience the benefits of yoga in a peaceful outdoor setting. Suitable for all ages and experience levels.",
+    "Date": "March 1, 2022",
+    "Time": "9:00 AM - 10:00 AM",
+    "Categories": "Fitness, Nature",
+    "Tags": "Yoga, Park, Outdoor",
+    "Location": "Lincoln Park, Denver"
+}, {
+    "UniqueId": 8,
+    "Title": "Farmers Market",
+    "Subtitle": "Shop for fresh produce and other products from local farmers",
+    "Description": "Visit the farmers market to shop for fresh produce and other products from local farmers. Find a variety of fruits, vegetables, meats, cheeses, and more. Suitable for all ages.",
+    "Date": "March 2, 2022",
+    "Time": "9:00 AM - 2:00 PM",
+    "Categories": "Food, Local",
+    "Tags": "Farmers, Market, Fresh",
+    "Location": "Farmers Market, Seattle"
+}, {
+    "UniqueId": 9,
+    "Title": "Nature Walk",
+    "Subtitle": "Explore the natural beauty of the area",
+    "Description": "Join us for a nature walk and explore the natural beauty of the area. Learn about the local flora and fauna and enjoy the peacefulness of nature. Suitable for all ages.",
+    "Date": "March 10, 2022",
+    "Time": "10:00 AM - 12:00 PM",
+    "Categories": "Nature, Outdoor",
+    "Tags": "Walk, Nature, Explore",
+    "Location": "Yellowstone National Park, Wyoming"
+}, {
+    "UniqueId": 10,
+    "Title": "Book Club Meeting",
+    "Subtitle": "Discuss the latest book with other book lovers",
+    "Description": "Join our book club and discuss the latest book with other book lovers. Refreshments will be provided. Suitable for all ages.",
+    "Date": "March 16, 2022",
+    "Time": "2:00 PM - 4:00 PM",
+    "Categories": "Books, Discussion",
+    "Tags": "Book, Club, Meeting",
+    "Location": "Library, Dallas"
+}, {
+    "UniqueId": 11,
+    "Title": "Food Truck Festival",
+    "Subtitle": "Enjoy delicious food from a variety of food trucks",
+    "Description": "Join us for a food truck festival featuring a variety of food trucks. Enjoy delicious food and live music. Suitable for all ages.",
+    "Date": "April 1, 2022",
+    "Time": "11:00 AM - 7:00 PM",
+    "Categories": "Food, Entertainment",
+    "Tags": "Food, Trucks, Festival",
+    "Location": "Food Truck Park, Austin"
+}, {
+    "UniqueId": 12,
+    "Title": "Easter Egg Hunt",
+    "Subtitle": "Join the hunt for Easter eggs",
+    "Description": "Join us for an Easter egg hunt. Children will have the opportunity to search for eggs and participate in other Easter-themed activities. Suitable for all ages.",
+    "Date": "April 5, 2022",
+    "Time": "11:00 AM - 1:00 PM",
+    "Categories": "Children, Holiday",
+    "Tags": "Easter, Egg, Hunt",
+    "Location": "Community Park, Miami"
+}, {
+    "UniqueId": 13,
+    "Title": "Garden Tour",
+    "Subtitle": "Explore beautiful gardens in the area",
+    "Description": "Join us for a tour of some of the most beautiful gardens in the area. Learn about different types of plants and gardening techniques. Suitable for all ages.",
+    "Date": "April 6, 2022",
+    "Time": "10:00 AM - 12:00 PM",
+    "Categories": "Nature, Outdoor",
+    "Tags": "Garden, Tour, Explore",
+    "Location": "Botanical Garden, Atlanta"
+}, {
+    "UniqueId": 14,
+    "Title": "Game Night",
+    "Subtitle": "Join us for a night of fun and games",
+    "Description": "Come and join us for a night of fun and games. We will have a variety of board games, video games, and other activities. Suitable for all ages.",
+    "Date": "April 13, 2022",
+    "Time": "6:00 PM - 10:00 PM",
+    "Categories": "Entertainment, Fun",
+    "Tags": "Games, Night, Fun",
+    "Location": "Community Center, Philadelphia"
+}, {
+    "UniqueId": 15,
+    "Title": "Live Music Concert",
+    "Subtitle": "Enjoy live music from local musicians",
+    "Description": "Join us for a live music concert featuring local musicians. Enjoy a variety of music genres and support your local talent. Suitable for all ages.",
+    "Date": "April 25, 2022",
+    "Time": "7:00 PM - 10:00 PM",
+    "Categories": "Music, Entertainment",
+    "Tags": "Concert, Music, Live",
+    "Location": "Music Hall, Portland"
+}, {
+    "UniqueId": 16,
+    "Title": "Art Show",
+    "Subtitle": "Discover the works of local artists",
+    "Description": "Join us for an art show showcasing the works of local artists. Discover a variety of art styles and mediums. Suitable for all ages.",
+    "Date": "May 4, 2022",
+    "Time": "11:00 AM - 4:00 PM",
+    "Categories": "Arts, Local",
+    "Tags": "Art, Show, Local",
+    "Location": "Art Gallery, Minneapolis"
+}, {
+    "UniqueId": 17,
+    "Title": "Dance Party",
+    "Subtitle": "Join us for a night of dancing",
+    "Description": "Come and join us for a night of dancing. We will have a DJ playing a variety of music genres. Suitable for all ages.",
+    "Date": "May 10, 2022",
+    "Time": "8:00 PM - 11:00 PM",
+    "Categories": "Entertainment, Dance",
+    "Tags": "Dance, Party, Night",
+    "Location": "Community Center, Las Vegas"
+}, {
+    "UniqueId": 18,
+    "Title": "Outdoor Movie Night",
+    "Subtitle": "Watch a movie under the stars",
+    "Description": "Join us for an outdoor movie night. We will be screening a popular movie on a large inflatable screen. Bring a blanket and snacks to enjoy during the movie. Suitable for all ages.",
+    "Date": "May 16, 2022",
+    "Time": "8:00 PM - 11:00 PM",
+    "Categories": "Entertainment, Outdoor",
+    "Tags": "Movie, Night, Outdoor",
+    "Location": "City Park, Houston"
+}, {
+    "UniqueId": 19,
+    "Title": "Science Experiment Workshop",
+    "Subtitle": "Learn about science through hands-on experiments",
+    "Description": "Join us for a science experiment workshop. We will conduct a variety of experiments and learn about different scientific concepts. Suitable for all ages.",
+    "Date": "May 22, 2022",
+    "Time": "1:00 PM - 3:00 PM",
+    "Categories": "Education, Science",
+    "Tags": "Experiment, Workshop, Science",
+    "Location": "Science Museum, Boston"
+}, {
+    "UniqueId": 20,
+    "Title": "Sports Day",
+    "Subtitle": "Join in on a variety of sports activities",
+    "Description": "Come and join us for a day of sports activities. We will have a variety of games and tournaments for all ages and skill levels. Suitable for all ages.",
+    "Date": "June 2, 2022",
+    "Time": "9:00 AM - 3:00 PM",
+    "Categories": "Sports, Activities",
+    "Tags": "Sports, Day, Activities",
+    "Location": "Community Park, Nashville"
+}, {
+    "UniqueId": 21,
+    "Title": "Volunteer Day",
+    "Subtitle": "Make a difference in your community",
+    "Description": "Join us for a volunteer day and make a difference in your community. We will be working on various projects to improve the community. Suitable for all ages.",
+    "Date": "June 4, 2022",
+    "Time": "9:00 AM - 12:00 PM",
+    "Categories": "Community, Volunteer",
+    "Tags": "Volunteer, Day, Community",
+    "Location": "Local Shelter, Baltimore"
+}, {
+    "UniqueId": 22,
+    "Title": "Summer Kick-Off Party",
+    "Subtitle": "Celebrate the start of summer",
+    "Description": "Join us for a summer kick-off party to celebrate the start of summer. We will have music, food, and other activities. Suitable for all ages.",
+    "Date": "June 15, 2022",
+    "Time": "6:00 PM - 10:00 PM",
+    "Categories": "Summer, Celebration",
+    "Tags": "Summer, Party, Kick-Off",
+    "Location": "Beach, Virginia Beach"
+}, {
+    "UniqueId": 23,
+    "Title": "Summer Reading Program",
+    "Subtitle": "Encourage reading during the summer",
+    "Description": "Join our summer reading program and encourage reading during the summer. We will have a variety of books and activities. Suitable for all ages.",
+    "Date": "June 15, 2022",
+    "Time": "10:00 AM - 12:00 PM",
+    "Categories": "Education, Children",
+    "Tags": "Reading, Summer, Program",
+    "Location": "Library, New Orleans"
+}, {
+    "UniqueId": 24,
+    "Title": "Summer BBQ",
+    "Subtitle": "Join us for a summer BBQ",
+    "Description": "Join us for a summer BBQ. We will have grilled food and drinks available for purchase. Suitable for all ages.",
+    "Date": "July 1, 2022",
+    "Time": "11:00 AM - 3:00 PM",
+    "Categories": "Food, Summer",
+    "Tags": "BBQ, Summer, Grill",
+    "Location": "City Park, Detroit"
+}]
